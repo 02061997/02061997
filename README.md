@@ -174,9 +174,9 @@ Daily one-step volatility forecasts benchmarked with Mincer–Zarnowitz calibrat
 ## 🛰️ Recent Activity
 
 <!--START_SECTION:activity-->
-- ✨ Created branch in [`abhijeetgupta02/resumeradar`](https://github.com/abhijeetgupta02/resumeradar)
+- _Recent public activity will appear here._
 
-_Last updated: 2026-07-24_
+_Last updated: 2026-07-25_
 <!--END_SECTION:activity-->
 
 ---
